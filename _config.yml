@@ -9,7 +9,7 @@ highlighter:    rouge
 #permalink:      pretty
 
 # Server
-source:         "."
+#source:         "."
 #destination:    ./_gh_pages
 #port:           9001
 baseurl:        ""
@@ -51,13 +51,13 @@ exclude:
 # Custom variables
 #current_version:    1.0
 #docs_version:       1.0
-repo:               "https://github.com/JoakimBrannstrom/JoakimBrannstrom.github.io"
-download:
-  source:           "https://github.com/JoakimBrannstrom/JoakimBrannstrom.github.io/archive/master.zip"
-  dist:             "https://github.com/JoakimBrannstrom/JoakimBrannstrom.github.io/archive/master.zip"
-
-blog:               "https://joakimbrannstrom.github.io/"
-expo:               "https://joakimbrannstrom.github.io/"
+#repo:               "https://github.com/JoakimBrannstrom/JoakimBrannstrom.github.io"
+#download:
+#  source:           "https://github.com/JoakimBrannstrom/JoakimBrannstrom.github.io/archive/master.zip"
+#  dist:             "https://github.com/JoakimBrannstrom/JoakimBrannstrom.github.io/archive/master.zip"
+#
+#blog:               "https://joakimbrannstrom.github.io/"
+#expo:               "https://joakimbrannstrom.github.io/"
 
 cdn:
   # See https://www.srihash.org for info on how to generate the hashes
