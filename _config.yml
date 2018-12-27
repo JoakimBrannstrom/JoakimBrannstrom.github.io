@@ -4,6 +4,8 @@ highlighter:    rouge
 
 kramdown:
   auto_ids:     true
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
 
 # Permalinks
 permalink:      pretty
