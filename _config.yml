@@ -1,5 +1,5 @@
 # Dependencies
-#markdown:       kramdown
+markdown:       kramdown
 highlighter:    rouge
 
 #kramdown:
@@ -45,8 +45,8 @@ title:              "joakimbrannstrom.github.io"
 description:        "The most popular github page in the world."
 twitter:            "tok_jocke"
 authors:            "Joakim Brännström"
-social_image_path:  /social.png
-social_logo_path:   /social-logo.png
+social_image_path:  social.png
+social_logo_path:   social-logo.png
 
 # Custom variables
 current_version:    1.0
