@@ -51,7 +51,7 @@ social_image_path:  social.png
 social_logo_path:   social-logo.png
 
 # Custom variables
-theme:              jekyll-theme-slate
+# theme:              jekyll-theme-slate
 current_version:    0.2
 docs_version:       0.2
 repo:               "https://github.com/JoakimBrannstrom/JoakimBrannstrom.github.io"

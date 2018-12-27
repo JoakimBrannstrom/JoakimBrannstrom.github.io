@@ -9,31 +9,9 @@
         <a class="nav-link {% if page.layout == "home" %}active{% endif %}" href="{{ site.baseurl }}/">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link {% if page.layout == "about" %}active{% endif %}" href="{{ site.baseurl }}/about.html/">Documentation</a>
+        <a class="nav-link {% if page.layout == "about" %}active{% endif %}" href="{{ site.baseurl }}/about.md">About</a>
       </li>
     </ul>
   </div>
 
-  <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
-    <li class="nav-item dropdown">
-      <a class="nav-item nav-link dropdown-toggle mr-md-2" href="#" id="bd-versions" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        ...
-      </a>
-      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="bd-versions">
-        <a class="dropdown-item active" href="{{ site.baseurl }}/docs/{{ site.docs_version }}/">Latest (4.x)</a>
-        <a class="dropdown-item" href="https://getbootstrap.com/2.3.2/">v2.3.2</a>
-      </div>
-    </li>
-
-    <li class="nav-item">
-      <a class="nav-link p-2" href="{{ site.repo }}" target="_blank" rel="noopener" aria-label="GitHub">
-        github
-      </a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link p-2" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener" aria-label="Twitter">
-        twitter
-      </a>
-    </li>
-  </ul>
 </header>
