@@ -2,11 +2,11 @@
 markdown:       kramdown
 highlighter:    rouge
 
-#kramdown:
-#  auto_ids:     true
+kramdown:
+  auto_ids:     true
 
 # Permalinks
-#permalink:      pretty
+permalink:      pretty
 
 # Server
 source:         "."
@@ -49,8 +49,8 @@ social_image_path:  social.png
 social_logo_path:   social-logo.png
 
 # Custom variables
-current_version:    1.0
-docs_version:       1.0
+current_version:    0.2
+docs_version:       0.2
 repo:               "https://github.com/JoakimBrannstrom/JoakimBrannstrom.github.io"
 #download:
 #  source:           "https://github.com/JoakimBrannstrom/JoakimBrannstrom.github.io/archive/master.zip"
